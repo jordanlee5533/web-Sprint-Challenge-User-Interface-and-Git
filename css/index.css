@@ -183,7 +183,7 @@ p {
     height: 100px;
     margin: 20px 2.5%;
     color: white;
-    background:lightblue;
+    background:cadetblue;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -194,7 +194,7 @@ p {
     height: 100px;
     margin: 20px 2.5%;
     color: white;
-    background:lightcoral;
+    background:coral;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -205,7 +205,7 @@ p {
     height: 100px;
     margin: 20px 2.5%;
     color: white;
-    background:red;
+    background:crimson;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -216,7 +216,7 @@ p {
     height: 100px;
     margin: 20px 2.5%;
     color: white;
-    background:green;
+    background:forestgreen;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -238,7 +238,7 @@ p {
     height: 100px;
     margin: 20px 2.5%;
     color: white;
-    background:pink;
+    background:hotpink;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -249,7 +249,7 @@ p {
     height: 100px;
     margin: 20px 2.5%;
     color: white;
-    background:purple;
+    background:indigo;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -260,7 +260,7 @@ p {
     height: 100px;
     margin: 20px 2.5%;
     color: white;
-    background:blue;
+    background:dodgerblue;
     display: flex;
     align-items: center;
     justify-content: center;
