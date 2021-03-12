@@ -119,10 +119,18 @@ p {
     border-bottom: 1px dashed black;
 }
 
-.middle-content .middle-container{
+.middle-content-about{
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 2% 0 2%;
+}
+
+.middle-content-about .middle-container{
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
-    width: 50%;
+    width: 47%;
 }
 
 .middle-content h2 {
@@ -132,14 +140,14 @@ p {
 
 .middle-content .middle-container h2{
     padding: 0;
-}.
+}
 
-.middle-content .middle-container button{
+.middle-content-about .middle-container button{
     background: white;
     border: 2.5px solid black;
     border-radius: 10%;
-    padding: 2% 4%;
-    margin: 2% 0;
+    padding: 2% 6%;
+    margin: 4% 0;
 }
 
 .middle-content .boxes{
