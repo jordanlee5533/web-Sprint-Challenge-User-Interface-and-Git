@@ -103,6 +103,11 @@ p {
     border-bottom: 1px dashed black;
 }
 
+.top-content .text-container-about{
+    padding: 0 1% 0 3%;
+    padding-bottom: 20px;
+}
+
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
@@ -114,9 +119,27 @@ p {
     border-bottom: 1px dashed black;
 }
 
+.middle-content .middle-container{
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+    width: 50%;
+}
+
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
+}
+
+.middle-content .middle-container h2{
+    padding: 0;
+}.
+
+.middle-content .middle-container button{
+    background: white;
+    border: 2.5px solid black;
+    border-radius: 10%;
+    padding: 2% 4%;
+    margin: 2% 0;
 }
 
 .middle-content .boxes{
